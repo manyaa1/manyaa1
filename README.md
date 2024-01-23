@@ -7,12 +7,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=manyaa1" alt="manyaa1" /></a> </p>
 
-- Mostly I work on **VSCode**
+- Mostly I work on **VSCode** and **GitHub**
 
 
 - 💬 Ask me about **frontend and cats**
 
 - 📫 How to reach me **contactmanya13114@gmail.com**
+-💪 Let me know if we can be a team 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
