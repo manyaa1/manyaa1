@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **frontend and cats**
 
-- 📫 How to reach me **contactmanya13114@gmail.com**
+- 📫  Reach me  @ **contactmanya13114@gmail.com**
 -💪 Let me know if we can be a team 
 
 <h3 align="left">Connect with me:</h3>
