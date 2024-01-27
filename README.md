@@ -1,6 +1,6 @@
 [![MasterHead](https://gifdb.com/images/high/animated-chock-coding-c78f6elj32sfoi8q.gif)](https://github.com/manyaa1/manyaa1)
 <h1 align="center">Hi 👋, I'm Manya !</h1>
-<h3 align="center">A passionate frontend developer and a student from India</h3>
+<h3 align="center">A passionate frontend developer and a 2nd year student from India</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=manyaa1&label=Profile%20views&color=0e75b6&style=flat" alt="manyaa1" /> </p>
@@ -10,7 +10,7 @@
 - Mostly I work on **VSCode** and **GitHub**
 
 
-- 💬 Ask me about **frontend and cats**
+- 💬 Ask me about **frontend**
 
 - 📫  Reach me  @ **contactmanya13114@gmail.com**
 -💪 Let me know if we can be a team 
